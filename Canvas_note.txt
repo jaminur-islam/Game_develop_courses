@@ -1,0 +1,4 @@
+** ctx diye canvas er vitorer context ta ke dorte hbe. and then tar vitorer property dore dore edit korte parbo 
+
+** fillReact mane hocche vitorer ongsho
+** strokeReact mane hocche baire ongsho
